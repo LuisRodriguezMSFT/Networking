@@ -1,2 +1,2 @@
 # Networking
-This is under development currently...
+Scripts related to networking in Azure

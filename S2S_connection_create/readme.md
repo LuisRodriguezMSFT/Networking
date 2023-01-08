@@ -1,0 +1,1 @@
+This script creates a route-based VPN Gateway and adds Site-to-Site configuration. In order to create the connection, you also need to configure your VPN device. For more information, see https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices.
