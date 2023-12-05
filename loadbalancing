@@ -1,6 +1,6 @@
-#Load Balancing in Azure:
+# Load <b>Balancing</b> in Azure:
 
-###The term load balancing refers to the distribution of workloads across multiple computing resources. Load balancing aims to optimize resource use, maximize throughput, minimize response time, and avoid overloading any single resource. It can also improve availability by sharing a workload across redundant computing resources.
+### The term load balancing refers to the distribution of workloads across multiple computing resources. Load balancing aims to optimize resource use, maximize throughput, minimize response time, and avoid overloading any single resource. It can also improve availability by sharing a workload across redundant computing resources.
 
 Azure provides various load-balancing services that you can use to distribute your workloads across multiple computing resources. These resources include Azure Application Gateway, Azure Front Door, Azure Load Balancer, and Azure Traffic Manager.
 
