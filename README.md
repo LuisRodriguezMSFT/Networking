@@ -1,2 +1,2 @@
 # Networking
-Scripts related to networking in Azure
+Stuff related to networking in Azure
