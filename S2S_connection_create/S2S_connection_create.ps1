@@ -1,4 +1,3 @@
-../PowerShell
 # Declare variables
   $VNetName  = "VNet1"
   $RG = "TestRG1"
